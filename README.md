@@ -1,5 +1,5 @@
 # RogueGame
-A rogue-like RPG made with ASCII Art, July 2021
+A rogue-like RPG made with ASCII Art, 2021
 Modules used: os, random, math time (standard Python library)
 The game is set in a dungeon where a player must navigate through different floors, collect items, defeat enemies, and defeat the final boss
 The difficulty of the game is dependent on random luck (gold, items)
